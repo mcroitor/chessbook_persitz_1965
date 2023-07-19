@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Персиц - Центр</dc:title>
+    <dc:subject/>
+    <dc:description>Б. ПЕРСИЦ - ЦЕНТР, Второе, переработанное издание</dc:description>
+    <dc:language>ru-RU</dc:language>
+    <dc:creator opf:role="autor">Борис Давыдович Персиц</dc:creator>
+    <dc:subject>хобби / шахматы</dc:subject>
+    <dc:publisher>Sweet Home</dc:publisher>
+    <dc:rights>GPL</dc:rights>
+    <dc:identifier id="uuid">Id_D83A1B48-B56C-4B51-B5CB-B170C7AF8B78_</dc:identifier>
+    <meta content="1.9.20" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2023-07-19</dc:date>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="front" href="front.html" media-type="application/xhtml+xml"/>
+    <item id="id0" href="intro.html" media-type="application/xhtml+xml"/>
+    <item id="id1" href="chapter1.html" media-type="application/xhtml+xml"/>
+    <item id="id2" href="chapter2.html" media-type="application/xhtml+xml"/>
+    <item id="id3" href="chapter3.html" media-type="application/xhtml+xml"/>
+    <item id="id4" href="chapter4.html" media-type="application/xhtml+xml"/>
+    <item id="id5" href="chapter5.html" media-type="application/xhtml+xml"/>
+    <item id="back" href="back.html" media-type="application/xhtml+xml"/>
+    <item id="cover" href="Boris_Persits_Tsentr.jpeg" media-type="image/jpeg"/>
+    <item id="id7" href="images/persitz_diagram01.png" media-type="image/png"/>
+    <item id="id8" href="images/persitz_diagram02.png" media-type="image/png"/>
+    <item id="id9" href="images/persitz_diagram03.png" media-type="image/png"/>
+    <item id="id10" href="images/persitz_diagram04.png" media-type="image/png"/>
+    <item id="id11" href="images/persitz_diagram05.png" media-type="image/png"/>
+    <item id="id12" href="images/persitz_diagram06.png" media-type="image/png"/>
+    <item id="id13" href="images/persitz_diagram07.png" media-type="image/png"/>
+    <item id="id14" href="images/persitz_diagram08.png" media-type="image/png"/>
+    <item id="id15" href="images/persitz_diagram09.png" media-type="image/png"/>
+    <item id="id16" href="images/persitz_diagram10.png" media-type="image/png"/>
+    <item id="id17" href="images/persitz_diagram11.png" media-type="image/png"/>
+    <item id="id18" href="images/persitz_diagram12.png" media-type="image/png"/>
+    <item id="id19" href="images/persitz_diagram13.png" media-type="image/png"/>
+    <item id="id20" href="images/persitz_diagram14.png" media-type="image/png"/>
+    <item id="id21" href="images/persitz_diagram15.png" media-type="image/png"/>
+    <item id="id22" href="images/persitz_diagram16.png" media-type="image/png"/>
+    <item id="id23" href="images/persitz_diagram17.png" media-type="image/png"/>
+    <item id="id24" href="images/persitz_diagram18.png" media-type="image/png"/>
+    <item id="id25" href="images/persitz_diagram19.png" media-type="image/png"/>
+    <item id="id26" href="images/persitz_diagram20.png" media-type="image/png"/>
+    <item id="id27" href="images/persitz_diagram21.png" media-type="image/png"/>
+    <item id="id28" href="images/persitz_diagram22.png" media-type="image/png"/>
+    <item id="id29" href="images/persitz_diagram23.png" media-type="image/png"/>
+    <item id="id30" href="images/persitz_diagram24.png" media-type="image/png"/>
+    <item id="id31" href="images/persitz_diagram25.png" media-type="image/png"/>
+    <item id="id32" href="images/persitz_diagram26.png" media-type="image/png"/>
+    <item id="id33" href="images/persitz_diagram27.png" media-type="image/png"/>
+    <item id="id34" href="images/persitz_diagram28.png" media-type="image/png"/>
+    <item id="id35" href="images/persitz_diagram29.png" media-type="image/png"/>
+    <item id="id36" href="images/persitz_diagram30.png" media-type="image/png"/>
+    <item id="id37" href="images/persitz_diagram31.png" media-type="image/png"/>
+    <item id="id38" href="images/persitz_diagram32.png" media-type="image/png"/>
+    <item id="id39" href="images/persitz_diagram33.png" media-type="image/png"/>
+    <item id="id40" href="images/persitz_diagram34.png" media-type="image/png"/>
+    <item id="id41" href="images/persitz_diagram35.png" media-type="image/png"/>
+    <item id="id42" href="images/persitz_diagram36.png" media-type="image/png"/>
+    <item id="id43" href="images/persitz_diagram37.png" media-type="image/png"/>
+    <item id="id44" href="images/persitz_diagram38.png" media-type="image/png"/>
+    <item id="id45" href="images/persitz_diagram39.png" media-type="image/png"/>
+    <item id="id46" href="images/persitz_diagram40.png" media-type="image/png"/>
+    <item id="id47" href="images/persitz_diagram41.png" media-type="image/png"/>
+    <item id="id48" href="images/persitz_diagram42.png" media-type="image/png"/>
+    <item id="id49" href="images/persitz_diagram43.png" media-type="image/png"/>
+    <item id="id50" href="images/persitz_diagram44.png" media-type="image/png"/>
+    <item id="id51" href="images/persitz_diagram45.png" media-type="image/png"/>
+    <item id="id52" href="images/persitz_diagram46.png" media-type="image/png"/>
+    <item id="id53" href="images/persitz_diagram47.png" media-type="image/png"/>
+    <item id="id54" href="images/persitz_diagram48.png" media-type="image/png"/>
+    <item id="id55" href="images/persitz_diagram49.png" media-type="image/png"/>
+    <item id="id56" href="images/persitz_diagram50.png" media-type="image/png"/>
+    <item id="id57" href="images/persitz_diagram51.png" media-type="image/png"/>
+    <item id="id58" href="images/persitz_diagram52.png" media-type="image/png"/>
+    <item id="id59" href="images/persitz_diagram53.png" media-type="image/png"/>
+    <item id="id60" href="images/persitz_diagram54.png" media-type="image/png"/>
+    <item id="id61" href="images/persitz_diagram55.png" media-type="image/png"/>
+    <item id="id62" href="images/persitz_diagram56.png" media-type="image/png"/>
+    <item id="id63" href="images/persitz_diagram57.png" media-type="image/png"/>
+    <item id="id64" href="images/persitz_diagram58.png" media-type="image/png"/>
+    <item id="id65" href="images/persitz_diagram59.png" media-type="image/png"/>
+    <item id="id66" href="images/persitz_diagram60.png" media-type="image/png"/>
+    <item id="id67" href="images/persitz_diagram61.png" media-type="image/png"/>
+    <item id="id68" href="images/persitz_diagram62.png" media-type="image/png"/>
+    <item id="id69" href="images/persitz_diagram63.png" media-type="image/png"/>
+    <item id="id70" href="images/persitz_diagram64.png" media-type="image/png"/>
+    <item id="id71" href="images/persitz_diagram65.png" media-type="image/png"/>
+    <item id="id72" href="images/persitz_diagram66.png" media-type="image/png"/>
+    <item id="id73" href="images/persitz_diagram67.png" media-type="image/png"/>
+    <item id="id74" href="images/persitz_diagram68.png" media-type="image/png"/>
+    <item id="id75" href="images/persitz_diagram69.png" media-type="image/png"/>
+    <item id="id76" href="images/persitz_diagram70.png" media-type="image/png"/>
+    <item id="id77" href="images/persitz_diagram71.png" media-type="image/png"/>
+    <item id="id78" href="images/persitz_diagram72.png" media-type="image/png"/>
+    <item id="id79" href="images/persitz_diagram73.png" media-type="image/png"/>
+    <item id="id80" href="images/persitz_diagram74.png" media-type="image/png"/>
+    <item id="id81" href="images/persitz_diagram75.png" media-type="image/png"/>
+    <item id="id82" href="main.css" media-type="text/css"/>
+    <item id="id83" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover.xhtml" href="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="id83">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="front"/>
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="back"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.xhtml"/>
+  </guide>
+</package>

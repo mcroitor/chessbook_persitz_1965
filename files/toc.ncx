@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="Id_D83A1B48-B56C-4B51-B5CB-B170C7AF8B78_"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Персиц - Центр</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ВВЕДЕНИЕ</text>
+      </navLabel>
+      <content src="intro.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>ПОДВИЖНЫЕ ЦЕНТРАЛЬНЫЕ ПЕШКИ</text>
+      </navLabel>
+      <content src="chapter1.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>ЗНАЧЕНИЕ ПОДВИЖНЫХ ЦЕНТРАЛЬНЫХ ПЕШЕК</text>
+        </navLabel>
+        <content src="chapter1.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>ДВИЖЕНИЕ ПРИ ОТСУТСТВИИ ПЕШЕЧНОГО ЗАСЛОНА</text>
+        </navLabel>
+        <content src="chapter1.html#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>ЗАХВАТ ПРОСТРАНСТВА И АТАКА НА ФЛАНГЕ</text>
+        </navLabel>
+        <content src="chapter1.html#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>ОБ ОДНОЙ ХАРАКТЕРНОЙ ПЕШЕЧНОЙ СТРУКТУРЕ И СВЯЗАННОЙ С НЕЙ АТАКОЙ</text>
+        </navLabel>
+        <content src="chapter1.html#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>ПЕШЕЧНЫЙ ПЕРЕВЕС В ЦЕНТРЕ ИЛИ НА ФЛАНГЕ?</text>
+        </navLabel>
+        <content src="chapter1.html#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>ЗАХВАТ ЦЕНТРАЛЬНЫХ ПОЛЕЙ ФИГУРАМИ В РЕЗУЛЬТАТЕ ДВИЖЕНИЯ ЦЕНТРАЛЬНЫХ ПЕШЕК</text>
+        </navLabel>
+        <content src="chapter1.html#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>НЕКОТОРЫЕ ТАКТИЧЕСКИЕ ОСОБЕННОСТИ ЦЕНТРАЛЬНЫХ ПЕШЕК</text>
+        </navLabel>
+        <content src="chapter1.html#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>БОРЬБА ПРОТИВ ПОДВИЖНЫХ ЦЕНТРАЛЬНЫХ ПЕШЕК</text>
+        </navLabel>
+        <content src="chapter1.html#sigil_toc_id_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>ИЗОЛИРОВАННАЯ ПЕШКА В ЦЕНТРЕ</text>
+      </navLabel>
+      <content src="chapter2.html"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>В ЧЕМ СЛАБОСТЬ ИЗОЛИРОВАННОЙ ПЕШКИ?</text>
+        </navLabel>
+        <content src="chapter2.html#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>ПРОДВИЖЕНИЕ ИЗОЛИРОВАННОЙ ПЕШКИ</text>
+        </navLabel>
+        <content src="chapter2.html#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>СПОСОБСТВУЕТ ЛИ ИЗОЛИРОВАННАЯ ПЕШКА АТАКЕ?</text>
+        </navLabel>
+        <content src="chapter2.html#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>НЕСКОЛЬКО ПАРТИЙ НА ТЕМУ ОБ ИЗОЛИРОВАННОЙ ПЕШКЕ</text>
+        </navLabel>
+        <content src="chapter2.html#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>СДВОЕННЫЕ ИЗОЛИРОВАННЫЕ ПЕШКИ В ЦЕНТРЕ</text>
+        </navLabel>
+        <content src="chapter2.html#sigil_toc_id_13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>«ВИСЯЧИЕ» ПЕШКИ</text>
+      </navLabel>
+      <content src="chapter3.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>НЕПОДВИЖНЫЙ ЦЕНТР</text>
+      </navLabel>
+      <content src="chapter4.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>ФИГУРЫ В ЦЕНТРЕ, ДАВЛЕНИЕ НА ЦЕНТР</text>
+      </navLabel>
+      <content src="chapter5.html"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>СИЛА ЦЕНТРАЛИЗОВАННЫХ ФИГУР. РАЗНИЦА В АКТИВНОСТИ ЦЕНТРАЛИЗОВАННЫХ ФИГУР</text>
+        </navLabel>
+        <content src="chapter5.html#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>ФИГУРЫ ПРОТИВ ПЕШЕЧНОГО ЦЕНТРА</text>
+        </navLabel>
+        <content src="chapter5.html#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>ОТРАЖЕНИЕ АТАКИ НА ФЛАНГЕ УДАРОМ В ЦЕНТРЕ</text>
+        </navLabel>
+        <content src="chapter5.html#sigil_toc_id_16"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
